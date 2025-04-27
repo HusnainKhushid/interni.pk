@@ -1,6 +1,8 @@
 # Interni.pk Tools
 
-This repository contains both executable tools and scripts for Scarping Jobs on Web.
+This repository contains executable tools and scripts for scraping job postings from the web. It includes all the tools I use to collect internship and job listings for interni.pk.
+
+
 
 
 ## Executable Tool
